@@ -1,2 +1,2 @@
 # juandc.co
-:candy: Personal page | :robot_face: Portfolio
+:candy: Personal page | :robot: Portfolio | :bookmark: Blog
